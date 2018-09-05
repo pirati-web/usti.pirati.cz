@@ -1,0 +1,37 @@
+---
+layout: page
+title: Program pro Brandýs - Starou Boleslav
+rbar: ""
+---
+
+<p>
+  Máme zpracovanou celou řadu oblastí města, často lokálních. Ozvěte se nám, rádi se s vámi potkáme a promluvíme si o tom, co byste ve městě rádi změnili právě vy.  </p>
+
+{% assign program = site.program | where: "category","dlouhodoby" | group_by:"topic" %}
+{% assign meta = program | where_exp: "item", "item.name == 'meta'" | first %}
+{% assign metatop = meta.items | reverse %}
+
+{% for point in metatop %}
+<div class="medium-12 large-4 columns o-section-block--medium">
+  <ul>
+    <li><a href="{{point.url}}">{{point.title}}</a><br/>{{ point.excerpt | remove: '<p>' | remove: '</p>' }}</li>
+  </ul>
+</div>
+{% endfor %}
+
+{% for topic in program %}
+{% if topic.name != 'meta' %}
+<div class="medium-12 large-4 columns o-section-block--medium">
+  <div class="o-section-header">
+    <h2 class="o-section__heading o-section__heading--small">{{topic.name}}</h2>
+  </div>
+  <br>
+  <ul>
+  {% for item in topic.items %}
+    <li><a href="{{ item.url | relative_url }}">{{item.title}}</a><br/>
+      {{ item.excerpt | remove: '<p>' | remove: '</p>' }}</li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
+{% endfor %}
