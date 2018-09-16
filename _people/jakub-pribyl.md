@@ -5,7 +5,7 @@ fullname: Ing. Jakub Přibyl  # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - pms
 - clenove
-ordclenove: 1
+ordclenove: 2
 ordpms: 2
 img: people/jakub-pribyl-small.jpg       # 165 x 220, v assets/img
 description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
