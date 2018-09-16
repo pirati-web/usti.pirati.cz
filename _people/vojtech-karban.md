@@ -5,7 +5,7 @@ fullname:  Vojtěch Karban # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
 
-img: people/ppp.jpg       # 165 x 220, v assets/img
+# img: people/ppp.jpg       # 165 x 220, v assets/img
 description: člen MS # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
 mail:
