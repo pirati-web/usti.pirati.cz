@@ -4,7 +4,7 @@ name: Vojtěch Karban  	# běžně používáné jméno
 fullname:  Vojtěch Karban # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
-
+ordclenove: 6
 # img: people/ppp.jpg       # 165 x 220, v assets/img
 description: člen MS # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
@@ -16,7 +16,6 @@ profiles:
 #  twitter: https://twitter.com/uzivatel.na.twitteru
 #  linkedin, atd, dalsi promenne viz _layouts/member.html
 
-ordclenove: 2
 ---
 
 Pochází z města Ústí nad Labem Vystudoval Střední školu Managementu a služeb s maturitou
