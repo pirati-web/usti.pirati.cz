@@ -4,7 +4,7 @@ name: Tomáš Rubinstein  	# běžně používáné jméno
 fullname:  Tomáš Rubinstein # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
-
+ordclenove: 5
 img: people/tomas-rubinstein.jpg       # 165 x 220, v assets/img
 description: člen MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
@@ -16,7 +16,6 @@ profiles:
 #  twitter: https://twitter.com/uzivatel.na.twitteru
 #  linkedin, atd, dalsi promenne viz _layouts/member.html
 
-ordclenove: 4
 ---
 
 Člen MS
