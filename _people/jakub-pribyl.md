@@ -4,7 +4,9 @@ name: Jakub Přibyl  	# běžně používáné jméno
 fullname: Ing. Jakub Přibyl  # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - pms
-
+- clenove
+ordclenove: 1
+ordpms: 2
 img: people/jakub-pribyl-small.jpg       # 165 x 220, v assets/img
 description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
@@ -16,7 +18,6 @@ profiles:
 #  twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
 
-ordpms: 2  # poradi v mistnim predsednictvu (cetegory pms)
 ---
 
 Jakub Přibyl je hydroprognostikem v ČHMI.
