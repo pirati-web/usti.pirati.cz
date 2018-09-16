@@ -1,5 +1,4 @@
 ---
-layout: blog
 category: CLANKY
 title: Do komunálních voleb jdou Piráti s Pro! Ústí
 date: 2018-09-06T10:00:00.000Z

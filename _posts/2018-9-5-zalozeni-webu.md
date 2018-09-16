@@ -1,11 +1,10 @@
 ---
-layout: blog
 category: CLANKY
 title: Založení webu
 date: 2018-09-05T13:30:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
-image: /assets/img/posts/2018-9-5_jednani_s_pro.png
+image: posts/2018-9-5_jednani_s_pro.png
 tags:
   - ostatní
 ---
