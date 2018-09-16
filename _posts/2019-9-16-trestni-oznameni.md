@@ -26,18 +26,18 @@ Ani toto upozornění však ústecký magistrát nezastavilo. Čtvrtého trestn�
 
 „Považuji za nepřípustné, aby vedoucí právního odboru města trávil pracovní dobu zahlcováním Policie a státního zastupitelství absurdními trestními oznámeními. Lidé, kteří nemají nic společného s politikou, musí kvůli němu chodit na výslechy, a kriminalisté tráví čas vyřizováním nesmyslů místo odhalování trestné činnosti. Kdekoliv jinde by takový zaměstnanec přišel o místo, ale v Ústí nadále pobírá veřejné prostředky a pokračuje v šikanování aktivní veřejnosti a poškozování dobrého jména města“ uvádí k tomu Lukáš Blažej.
 
-[První trestní oznámení města](posts/TO1.pdf)
+[První trestní oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/TO1.pdf)
 
-[Druhé trestní oznámení města](posts/TO2.pdf)
+[Druhé trestní oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/TO2.pdf)
 
-[Třetí trestní oznámení města](posts/TO3.pdf)
+[Třetí trestní oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/TO3.pdf)
 
-[Čtvrté trestní oznámení města](posts/TO4.pdf)
+[Čtvrté trestní oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/TO4.pdf)
 
-[Založení prvního trestního oznámení města](posts/Z1.pdf)
+[Založení prvního trestního oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/Z1.pdf)
 
-[Založení druhého trestního oznámení města](posts/Z2.pdf)
+[Založení druhého trestního oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/Z2.pdf)
 
-[Založení třetího trestního oznámení města](posts/Z3.pdf)
+[Založení třetího trestního oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/Z3.pdf)
 
-[Založení čtvrtého trestního oznámení města](posts/Z4.pdf)
+[Založení čtvrtého trestního oznámení města](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/Z4.pdf)
