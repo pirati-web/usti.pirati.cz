@@ -4,7 +4,6 @@ name: Lukáš Blažej  	# běžně používáné jméno
 # fullname: Ing. Jméno Příjmení PhD.  # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - pms
-- clenove
 
 img: people/lukas-blazej-small.jpg       # 165 x 220, v assets/img
 description: předseda MS Ústí nad Labem # kratký popis, max 160 znaků
@@ -16,8 +15,8 @@ profiles:
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
 #  twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
-ordclenove: 1
-ordpms: 1  # poradi v mistnim predsednictvu (cetegory pms)
+ordpms: 1
+
 ---
 
  Lukáš Blažej se narodil v Ústí nad Labem, kde vystudoval Gymnázium dr. Václava Šmejkala. Již od dětství projevoval zájem o dění kolem sebe, nejprve prostřednictvím žákovského parlamentu, později školské rady. Od roku 2015 studuje na Právnické fakultě Univerzity Karlovy.
