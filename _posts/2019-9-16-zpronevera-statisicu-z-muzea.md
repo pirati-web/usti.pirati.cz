@@ -4,7 +4,7 @@ title: Zpronevěra statisíců z Muzea se může kdykoliv opakovat
 date: 2018-09-16T17:30:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
-image: posts/2018-9-16-hlasovani-protinavrh.jpg
+image: posts/ilustracni-accounting.jpg
 tags:
   - magistrát
   - zastupitelstvo
@@ -26,7 +26,7 @@ Proto jsem zpracoval materiál, který ukládal kontrolnímu výboru zabývat se
 
 Materiál byl vytištěn a rozdán všem zastupitelům do schránek. Nikdo se neozval s doplňujícími dotazy či připomínkami. Na zasedání však nebylo schváleno ani zařazení bodu na program jednání:
 
-<img src="https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/2018-9-16-hlasovani-protinavrh.jpg">
+<img src="https://raw.githubusercontent.com/pirati-web/usti.pirati.cz/master/assets/img/posts/2018-9-16-hlasovani-protinavrh.jpg">
 
 Pro zařazení hlasovalo šestnáct zastupitelů z potřebných devatenácti. Zastupitelé KSČM, ČSSD, ODS a bývalého ANO se bez jakéhokoliv vysvětlení zdrželi, současné vedení města z hnutí UFO dokonce hlasovalo proti zařazení bodu na program jednání.
 Protože většina současných zastupitelů nechce o problému ani diskutovat, natož činit kroky k jeho řešení, je situace s prověrkami účetních závěrek od zpronevěry v Muzeu stále stejná. Nezbývá než doufat, že k další zpronevěře nedojde, a že se v příštím zastupitelstvu se najde dostatek lidí, kteří budou chtít problém řešit.
