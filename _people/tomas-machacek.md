@@ -4,7 +4,9 @@ name: Tomáš Macháček  	# běžně používáné jméno
 fullname:  Tomáš Macháček # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - pms
-
+- clenove
+ordclenove: 3
+ordpms: 3
 img: people/tomas-machacek-small.jpg       # 165 x 220, v assets/img
 description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
@@ -16,7 +18,6 @@ profiles:
 #  twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
 
-ordpms: 3  # poradi v mistnim predsednictvu (cetegory pms)
 ---
 
 Tomáš Macháček narozen 4.Listopadu 1994 v Trutnově. Po 1. roce života žije v Ústí nad Labem.
