@@ -4,7 +4,7 @@ title: Do komunálních voleb jdou Piráti s Pro! Ústí
 date: 2018-09-06T10:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
-image: img/posts/logo_prousti_ctverec-01.jpg
+image: posts/logo_prousti_ctverec-01.jpg
 tags:
   - volby
 ---
