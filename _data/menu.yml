@@ -16,7 +16,7 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
+  - link: "http://www.planprousti.cz/"
     name: Komunální volby
     match: komunalni-volby
     submenu:
