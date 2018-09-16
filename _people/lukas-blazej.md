@@ -15,7 +15,7 @@ profiles:
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
 #  twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
-
+ordclenove: 1
 ordpms: 1  # poradi v mistnim predsednictvu (cetegory pms)
 ---
 
