@@ -11,7 +11,7 @@ tags:
 ---
 Dne 19. 9. 2018 proběhlo 26. zasedání zastupitelstva města Ústí nad Labem, ze kterého vám přinášíme tento souhrn.
 
-Pozoruhodný byl už počet bodů na programu jednání. Ačkoliv se zastupitelstvo schází pouze čtyřikrát ročně, vedení města předložilo pouze sedm bodů k projednání, z toho tři body byly čistě úřednické. Je pravdou, že kdo nic nedělá, ten nic nezkazí, ale současné vedení města inkasuje měsíčně přes 300 000 Kč za výkon funkce, tudíž bychom očekávali větší aktivitu. Jen pro srovnání - před [změnou vedení města](https://usti.idnes.cz/rozpad-koalice-v-usti-nad-labem-dzr-/usti-zpravy.aspx?c=A150625_170550_usti-zpravy_alh) se zastupitelstvo scházelo mnohem častěji, a i tak nebylo výjimkou 40 bodů na programu jednání.
+Pozoruhodný byl už počet bodů na programu jednání. Ačkoliv se zastupitelstvo schází jen čtyřikrát ročně, vedení města předložilo pouze sedm bodů k projednání, z toho tři body byly čistě úřednické. Je pravdou, že kdo nic nedělá, ten nic nezkazí, ale současné vedení města inkasuje měsíčně přes 300 000 Kč za výkon funkce, tudíž bychom očekávali větší aktivitu. Jen pro srovnání - před [změnou vedení města](https://usti.idnes.cz/rozpad-koalice-v-usti-nad-labem-dzr-/usti-zpravy.aspx?c=A150625_170550_usti-zpravy_alh) se zastupitelstvo scházelo mnohem častěji, a i tak nebylo výjimkou 40 bodů na programu jednání.
 
 Zajímavá situace nastala hned při projednávání „nultého“ bodu, ve kterém tajemník informuje o splnění předchozích usnesení zastupitelstva a zastupitelé berou tuto informaci na vědomí. Kromě vzetí na vědomí totiž byla v návrhu na usnesení obsažena revokace předchozího usnesení zastupitelstva týkající se [překladiště ve Vaňově](https://ustecky.denik.cz/zpravy_region/vanov-prekladiste-ropy-a-oleju-ne-pozemek-ano-20180423.html), které Rada města odmítla splnit. V úvodní řeči ani v důvodové zprávě o tom nebyla ani zmínka, a pokud by Mgr. Daduč na poslední chvíli neupozornil na revokaci v návrhu na usnesení, zastupitelé by ji bez povšimnutí schválili. Musíme tak pracovat ve městě, kde nelze důvěřovat ani materiálům zpracovaným tajemníkem pro jednání nejvyššího orgánu města.
 
@@ -31,4 +31,4 @@ Pro odlehčení uvádíme několik perliček:
 * Jako každé zastupitelstvo, i tentokrát KSČM opakovaně navrhovala ukončení diskuse. Jednou se jí to dokonce povedlo, a to za podpory zastupitelů z ODS, ČSSD, KSČM a části bývalého ANO. Piráti považují diskusi za základ demokracie a pro takový návrh by nikdy nehlasovali.
 * Po upozornění Mgr. Daduče se primátorka musela omluvit za to, že si během argumentace Pirátů k vyhlášce o prostituci teatrálně ťukala na čelo.
 
-26. zastupitelstvo bylo posledním zastupitelstvem v tomto volebním období. V dalším souhrnu vás tedy budeme informovat o povolebních vyjednáváních.
+Toto zastupitelstvo bylo posledním zastupitelstvem volebního období. V dalším souhrnu vás tedy budeme informovat o povolebních vyjednáváních.
