@@ -1,6 +1,6 @@
 ---
 category: CLANKY
-title: 26. zastupitelstvo: 20 000,- Kč na hodinu a ťukání na čelo
+title: 26. zastupitelstvo? 20 000,- Kč na hodinu a ťukání na čelo.
 date: 2018-09-19T18:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
