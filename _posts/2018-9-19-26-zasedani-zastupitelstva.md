@@ -1,6 +1,6 @@
 ---
 category: CLANKY
-title: 26. zastupitelstvo? 20 000,- Kč na hodinu a ťukání na čelo.
+title: "26. zastupitelstvo: 20 000,- Kč na hodinu a ťukání na čelo"
 date: 2018-09-19T18:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
@@ -27,8 +27,8 @@ Z dalších bodů zmíníme ještě vyhlášku, dle které bude nabízení, posk
 
 Pro odlehčení uvádíme několik perliček:
 * Květoslava Čelišová (KSČM) řekla, že se stydí za to, že je zastupitelkou města Ústí nad Labem. Nedivíme se jí - jako uvolněná radní pobírá přes 60 000,- Kč měsíčně, přesto za celou dobu výkonu funkce nepředložila do zastupitelstva jediný bod. Na jejím místě bychom se styděli také.
-* Člen Pirátů byl napomenut, že přišel jako veřejnost na zastupitelstvo s logem Pirátů na tričku, čímž podle primátorky „narušil apolitičnost zastupitelstva“. Zda se apolitičnost projevuje tím, že u jmen zastupitelů na obrazovce neustále svítí loga stran, jsme se nezeptali.
-* Jako každé zastupitelstvo, i tentokrát KSČM opakovaně navrhovala ukončení diskuse. Jednou se jí to dokonce povedlo, a to za podpory zastupitelů z ODS, ČSSD, KSČM a části bývalého ANO. Piráti považují diskusi za základ demokracie a pro takový návrh by nikdy nehlasovali.
+* Člen Pirátů byl napomenut, že přišel jako veřejnost na zastupitelstvo s logem Pirátů na tričku, čímž podle primátorky „*narušil apolitičnost zastupitelstva*“. Apolitičnost zastupitelstva se patrně projevuje například tím, že u jmen zastupitelů na obrazovce neustále svítí loga stran.
+* Jako na každém zasedání zastupitelstva, i tentokrát KSČM opakovaně navrhovala ukončení diskuse. Jednou se jí to dokonce povedlo, a to za podpory zastupitelů z ODS, ČSSD, KSČM a části bývalého ANO. Piráti považují diskusi za základ demokracie a pro takový návrh by nikdy nehlasovali.
 * Po upozornění Mgr. Daduče se primátorka musela omluvit za to, že si během argumentace Pirátů k vyhlášce o prostituci teatrálně ťukala na čelo.
 
 Toto zastupitelstvo bylo posledním zastupitelstvem volebního období. V dalším souhrnu vás tedy budeme informovat o povolebních vyjednáváních.
