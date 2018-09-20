@@ -25,7 +25,7 @@ Třetím bodem bylo poskytnutí mimořádných dotací. Nejzajímavější žád
 
 Z dalších bodů zmíníme ještě vyhlášku, dle které bude nabízení, poskytování i využívání sexuálních služeb za úplatu na kterémkoliv veřejném prostranství města přestupkem. Souhlasíme s tím, že prostituci je třeba regulovat, nicméně tuto vyhlášku považujeme za velmi problematickou. Vyhláška vzešla ze stížností na chování prostitutek a prostitutů v Předlicích. Tito lidé se kvůli vyhlášce prostitucí živit nepřestanou, jediným důsledkem bude přesun do ilegality, čímž ještě zvýšíme jejich sociální vyloučení (např. napadená prostitutka nepůjde oznámit napadení na Policii, neboť by ji čekala sankce za přestupek) a ztratíme možnost jejich situaci jakkoliv řešit. Zdánlivě jednoduchá řešení jsou však lákavá a vyhláška byla schválena.
 
-Pro odlehčení uvádíme několik perliček:
+Na závěr pro odlehčení uvádíme několik perliček:
 * Květoslava Čelišová (KSČM) řekla, že se stydí za to, že je zastupitelkou města Ústí nad Labem. Nedivíme se jí - jako uvolněná radní pobírá přes 60 000,- Kč měsíčně, přesto za celou dobu výkonu funkce nepředložila do zastupitelstva jediný bod. Na jejím místě bychom se styděli také.
 * Člen Pirátů byl napomenut, že přišel jako veřejnost na zastupitelstvo s logem Pirátů na tričku, čímž podle primátorky „*narušil apolitičnost zastupitelstva*“. Apolitičnost zastupitelstva se patrně projevuje například tím, že u jmen zastupitelů na obrazovce neustále svítí loga stran.
 * Jako na každém zasedání zastupitelstva, i tentokrát KSČM opakovaně navrhovala ukončení diskuse. Jednou se jí to dokonce povedlo, a to za podpory zastupitelů z ODS, ČSSD, KSČM a části bývalého ANO. Piráti považují diskusi za základ demokracie a pro takový návrh by nikdy nehlasovali.
