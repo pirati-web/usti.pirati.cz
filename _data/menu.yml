@@ -13,6 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+  - link: /kalendar/
+    name: Kalendář
+    match: kalendar
   - link: /lide/
     name: O nás
     match: lide
