@@ -16,8 +16,8 @@ Ve dnech 8. - 11. 10. 2018 se v Bruselu konal Evropský týden regionů a měst.
 Měsíc před konáním akce jsme se obrátili na Ing. Martina Dlouhého, vedoucího odboru strategického rozvoje, s nabídkou spolupráce a dotazem, kdo se za Ústí zúčastní. Na e-mail jsme dodnes neobdrželi žádnou odpověď, ale po opakované urgenci nám bylo - několik dnů po uzavření registrací - neformálně sděleno, že si máme pro zodpovězení dotazu domluvit schůzku u asistentky.
 
 Po akci jsme dostali velmi stručnou informaci, že z Ústí se nikdo nezúčastnil:
-![Odpověď Magistrátu](posts/2018-10-18-neucast.jpg)
+![Odpověď Magistrátu](https://raw.githubusercontent.com/pirati-web/usti.pirati.cz/master/assets/img/posts/2018-10-18-neucast.jpg)
 
-Takto ostentativní nezájem o informace a kontakty na evropské úrovni je nepochopitelný. Město má desítky problémů, od sociálního vyloučení přes brownfieldy až po parkování. Všechny tyto problémy byly v jiných evropských městech úspěšně řešeny, ale to Ústí nezajímá; raději bude vymýšlet řešení do dotačního projektu na koleně a následně opět vracet miliony za chyby (https://ustecky.denik.cz/zpravy_region/usti-bude-za-chyby-v-dotacich-muset-vracet-miliony-korun-20170714.html). 
+Takto ostentativní nezájem o informace a kontakty na evropské úrovni je nepochopitelný. Město má desítky problémů, od sociálního vyloučení přes brownfieldy až po parkování. Všechny tyto problémy byly v jiných evropských městech úspěšně řešeny, ale to Ústí nezajímá; raději bude vymýšlet řešení do dotačního projektu na koleně a následně opět [vracet miliony za chyby](https://ustecky.denik.cz/zpravy_region/usti-bude-za-chyby-v-dotacich-muset-vracet-miliony-korun-20170714.html). 
 
-Mrzí nás, že zatímco Praha či Plzeň mají v Bruselu své (stálé zastoupení)[https://www.blesk.cz/clanek/zpravy-udalosti/451268/praha-ma-v-bruselu-dum-za-52-milionu-haji-odtud-sve-evropske-zajmy.html], Ústí jde přesně opačnou cestou. Pokud budeme ve vedení města, pokusíme se současné směřování co nejrychleji změnit.
+Mrzí nás, že zatímco Praha či Plzeň mají v Bruselu své [stálé zastoupení](https://www.blesk.cz/clanek/zpravy-udalosti/451268/praha-ma-v-bruselu-dum-za-52-milionu-haji-odtud-sve-evropske-zajmy.html), Ústí jde přesně opačnou cestou. Pokud budeme ve vedení města, pokusíme se současné směřování co nejrychleji změnit.
