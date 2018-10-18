@@ -1,6 +1,6 @@
 ---
 category: CLANKY
-title: Piráti byli jediními zástupci Ústí na European Week of Regions and Cities
+title: Piráti byli jedinými zástupci Ústí na European Week of Regions and Cities
 date: 2018-10-18T18:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
