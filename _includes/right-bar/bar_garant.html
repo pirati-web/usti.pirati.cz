@@ -1,0 +1,16 @@
+{% if page.garant %}
+<div class="o-section-block--spaceBot">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Garant</span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        {% assign garant = site.people | where:"uid",page.garant | first %}
+        {% include people/profile-badge.html item=garant style='card' viewMode='single' showDescription=false class='c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
+      </div>
+    </li>
+  </ul>
+</div>
+{% endif %}
+

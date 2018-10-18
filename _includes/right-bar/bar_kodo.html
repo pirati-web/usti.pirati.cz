@@ -1,0 +1,19 @@
+<div class="o-section-block">
+	<ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+		<li class="c-widget-accordion-item is-active" data-accordion-item="">
+			<a href="#" class="c-widget-accordion-link c-widget-accordion-link--nofill">
+				<span class="c-widget-accordion__title">Koordinátoři dobrovolníků</span>
+			</a>
+			<div class="c-widget-accordion-content" data-tab-content="">
+				{% assign kodos = site.people | where_exp: "item","item.categories contains 'kodo'" | sort:"ordkodo" %}
+				{% for person in kodos %}
+				{% include people/profile-badge.html item=person style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
+				{% endfor %}
+				<div class="c-widget-accordion-content__cta">
+					{% assign peopleCol = site.collections | where: "label", "people" | first %}
+					<a class="expanded button large u-0margin" href="{% if peopleCol.root %}{{ peopleCol.root }}{% else %}{{ '/kontakty/' | relative_url }}{% endif %}"> Ozvi se nám! </a>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>
