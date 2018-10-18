@@ -1,7 +1,6 @@
 <aside class="o-section">
   <div class="o-section-inner o-section-inner--rightBlock">
     {% for rbar in  page.rbar %}
-    {% include newsletter.html %}
         {% if rbar contains 'foto' %}
           {% include right-bar/bar_foto.html %}
         {% endif %}
@@ -32,7 +31,6 @@
         {% if rbar contains 'tw' and site.twitter.profile %}
           {% include right-bar/bar_tw.html %}
         {% endif %}
-
         {% comment %}Allows to append custom right bars variants{% endcomment %}
         {% include right-bar/custom-bars.html rbar=rbar %}
     {% endfor %}
