@@ -15,7 +15,7 @@ Ve dnech 8. - 11. 10. 2018 se v Bruselu konal Evropský týden regionů a měst.
 
 Měsíc před konáním akce jsme se obrátili na Ing. Martina Dlouhého, vedoucího odboru strategického rozvoje, s nabídkou spolupráce a dotazem, kdo se za Ústí zúčastní. Na e-mail jsme dodnes neobdrželi žádnou odpověď, ale po opakované urgenci nám bylo - několik dnů po uzavření registrací - neformálně sděleno, že si máme pro zodpovězení dotazu domluvit schůzku u asistentky.
 
-Po akci jsme dostali velmi stručnou informaci, že z Ústí se nikdo nezúčastní:
+Nezbylo nám, než podat žádost o informace, na kterou jsme po akci dostali velmi stručnou odpověď:
 
 ![Odpověď Magistrátu](https://raw.githubusercontent.com/pirati-web/usti.pirati.cz/master/assets/img/posts/2018-10-18-neucast.jpg)
 
