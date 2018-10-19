@@ -17,8 +17,8 @@ V minulém týdnu proběhla médii zpráva, že hlavnímu architektovi města Ú
 
 [Úplné znění rozsudku naleznete zde.](https://github.com/pirati-web/usti.pirati.cz/blob/master/assets/img/posts/Rozhodnuti-Charvat.pdf)
 
-Autorizace byla Ing. arch. Charvátovi pozastavena pro dvě kárná provinění. Prvním proviněním bylo, že inkasoval smluvní cenu za zakázku, kterou neprovedl, a peníze za ni nevrátil, dokud k tomu nebyl donucen rozsudkem Obvodního soudu pro Prahu 4. Druhým proviněním bylo, že se Ing. arch. Charvát vyhýbal komunikaci s dozorčí radou ČKA tím, že měl jako sídlo architekta uvedenou adresu, na které se nenacházela ani poštovní schránka.
+Autorizace byla Ing. arch. Charvátovi pozastavena pro dvě kárná provinění. Prvním proviněním bylo, že inkasoval smluvní odměnu za zakázku, kterou neprovedl, a peníze za ni nevrátil, dokud k tomu nebyl donucen rozsudkem Obvodního soudu pro Prahu 4. Druhým proviněním bylo, že se vyhýbal komunikaci s dozorčí radou ČKA tím, že měl jako sídlo architekta uvedenou adresu, na které se nenacházela ani poštovní schránka.
 
-Stavovský soud vyhodnotil jednání Ing. arch. Charváta jako „*zcela neprofesionální, poškozující zájmy jeho klienta a nedbající povinností vůči České komoře architektů*“, jeho jednání „*vypovídá o nezodpovědném a neprofesionálním přístupu k výkonu profese*“.
+Stavovský soud vyhodnotil jednání Ing. arch. Charváta jako „*zcela neprofesionální, poškozující zájmy jeho klienta a nedbající povinností vůči České komoře architektů*“, jeho jednání dle soudu „*vypovídá o nezodpovědném a neprofesionálním přístupu k výkonu profese*“.
 
 Za pozornost stojí, že v době, kdy bylo vedeno disciplinární řízení a Ing. arch. Charvát nebyl z osobních důvodů schopen dodržovat smluvní závazky, zvládl vést bakalářskou práci svého nadřízeného, náměsta Pavla Dufka z UFO. Oponentkou této práce byla Zuzana Bařtipánová z ANO a Bc. Pavel Dufek ji úspěšně obhájil.
