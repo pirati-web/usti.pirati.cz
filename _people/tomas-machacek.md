@@ -2,9 +2,9 @@
 uid: tomas.machacek
 name: Tomáš Macháček  	# běžně používáné jméno
 fullname:  Tomáš Macháček # jméno s tituly etc.
-category:                 # kategorie: pms, clenove, priznivci
-- pms
-ordpms: 3
+category:                 # kategorie: clenove, priznivci
+- clenove
+ordclenove: 4
 img: people/tomas-machacek-small.jpg       # 165 x 220, v assets/img
 description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
