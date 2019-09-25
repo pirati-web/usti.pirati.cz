@@ -7,7 +7,7 @@ category:                 # kategorie: pms, clenove, priznivci
 - kontaktni_osoba
 
 img: people/lukas-blazej-small.jpg       # 165 x 220, v assets/img
-description: předseda MS Ústí nad Labem # kratký popis, max 160 znaků
+description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
 mob: +420 778 702 712     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
 mail:
 - lukas.blazej@pirati.cz
