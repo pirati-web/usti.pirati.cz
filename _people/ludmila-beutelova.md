@@ -5,6 +5,7 @@ fullname:  Ludmila Beutelová # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - pms
 ordpms: 2
+
 img: people/ludmila-beutelova-small.jpg       # 165 x 220, v assets/img
 description: operátorka technické podpory # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
