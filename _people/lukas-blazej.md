@@ -16,7 +16,7 @@ profiles:
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
 #  twitter: https://twitter.com/uzivatel.na.twitteru
   #linkedin, atd, dalsi promenne viz _layouts/member.html
-ordpms: 1
+ordpms: 3
 
 ---
 
