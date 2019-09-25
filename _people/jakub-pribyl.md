@@ -6,7 +6,7 @@ category:                 # kategorie: pms, clenove, priznivci
 - pms
 ordpms: 2
 img: people/jakub-pribyl-small.jpg       # 165 x 220, v assets/img
-description: místopředseda MS Ústí nad Labem # kratký popis, max 160 znaků
+description: předseda MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
 mail:
 - jakub.pribyl@pirati.cz
