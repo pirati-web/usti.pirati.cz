@@ -7,7 +7,7 @@ category:                 # kategorie: pms, clenove, priznivci
 ordpms: 2
 
 img: people/ludmila-beutelova-small.jpg       # 165 x 220, v assets/img
-description: operátorka technické podpory # kratký popis, max 160 znaků
+description: místopředsedkyně MS Ústí nad Labem # kratký popis, max 160 znaků
 # mob:     # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
 mail:
 - ludmila.beutelova@pirati.cz
