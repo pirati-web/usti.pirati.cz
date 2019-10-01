@@ -5,7 +5,7 @@ titles:
   before: Ing. Bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
+- clenove
 img: people/jiri_baudis.jpg   # 165 x 220
 description: Člen MS Ústí       	# kratký popis, max 160 znaků
 mail:
