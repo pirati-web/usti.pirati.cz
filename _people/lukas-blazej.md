@@ -25,3 +25,5 @@ ordpms: 3
 Od roku 2010 je registrovaným příznivcem České pirátské strany. Je zakládajícím členem spolku Ústecké šrouby, z. s., který se věnuje ochraně přírody a krajiny v Ústí nad Labem. Na počátku uprchlické krize spoluorganizoval humanitární výjezd do Horgoše a na hraniční přechod Berkasovo-Bapske.
 
 Od roku 2014 je členem Kontrolního výboru Zastupitelstva Městského obvodu Ústí nad Labem - město za hnutí Pro!Ústí, v roce 2016 byl lídrem pirátské části kandidátky Pirátů a Zelených do Zastupitelstva Ústeckého kraje. 
+
+Od roku 2018 je zastupitelem města Ústí nad Labem za hnutí Pro!Ústí.
