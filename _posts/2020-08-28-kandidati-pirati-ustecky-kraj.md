@@ -8,7 +8,6 @@ author: Piráti
 image: posts/KANDI_zbytek.png
 ---
 
-
 Pirátům se v Ústeckém kraji podařilo sestavit silnou kandidátku ze svých vlastních řad, expertních týmů, odborníků a nezávislých osobností napříč krajem a generacemi. Tak, jak budou uvedeni na hlasovacím lístku č. 19, vám je představujeme zde (a více informací tady)
 
 1) Karel Karika, 59 let, Vedoucí domu svatého Materny, pracovník v charitě, Ústí nad Labem, člen Piráti
